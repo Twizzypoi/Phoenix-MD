@@ -12,7 +12,7 @@ global.antitags = false;
 global.autoTyping = false;                //auto tying by default off.
 global.autoRecord = false;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
-global.statusseen = false;                 //This is the new variable for controlling status seen.
+global.statusseen = true;                 //This is the new variable for controlling status seen.
 global.autoreadgc = true;
 
 
@@ -21,10 +21,10 @@ global.prefa = ["/"];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["49491741711168", "4365022989060"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["49491741711168", "4365022989060"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.Owner = ["49491741711168", "27629015564"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["49491741711168", "27629015564"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
 global.ownertag = ["49491741711168", "4365022989060"];
-global.OwnerName = "Exiqon & Baron";
+global.OwnerName = "Juic£";
 global.BotName = "Phoenix-BOT";
 global.packname = "By Phoenix Bot";                             //Do not change.
 global.author = "ig: 6u.cg";                               //Do not change.
